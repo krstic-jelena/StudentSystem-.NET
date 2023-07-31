@@ -1,0 +1,12 @@
+C:\Users\Jelena\source\repos\StSluzba\StSluzba.Models\bin\Debug\net6.0\StSluzba.Models.deps.json
+C:\Users\Jelena\source\repos\StSluzba\StSluzba.Models\bin\Debug\net6.0\StSluzba.Models.dll
+C:\Users\Jelena\source\repos\StSluzba\StSluzba.Models\bin\Debug\net6.0\StSluzba.Models.pdb
+C:\Users\Jelena\source\repos\StSluzba\StSluzba.Models\obj\Debug\net6.0\StSluzba.Models.csproj.AssemblyReference.cache
+C:\Users\Jelena\source\repos\StSluzba\StSluzba.Models\obj\Debug\net6.0\StSluzba.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jelena\source\repos\StSluzba\StSluzba.Models\obj\Debug\net6.0\StSluzba.Models.AssemblyInfoInputs.cache
+C:\Users\Jelena\source\repos\StSluzba\StSluzba.Models\obj\Debug\net6.0\StSluzba.Models.AssemblyInfo.cs
+C:\Users\Jelena\source\repos\StSluzba\StSluzba.Models\obj\Debug\net6.0\StSluzba.Models.csproj.CoreCompileInputs.cache
+C:\Users\Jelena\source\repos\StSluzba\StSluzba.Models\obj\Debug\net6.0\StSluzba.Models.dll
+C:\Users\Jelena\source\repos\StSluzba\StSluzba.Models\obj\Debug\net6.0\refint\StSluzba.Models.dll
+C:\Users\Jelena\source\repos\StSluzba\StSluzba.Models\obj\Debug\net6.0\StSluzba.Models.pdb
+C:\Users\Jelena\source\repos\StSluzba\StSluzba.Models\obj\Debug\net6.0\ref\StSluzba.Models.dll

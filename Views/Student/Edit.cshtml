@@ -1,0 +1,46 @@
+﻿@model Student
+
+<form method="post">
+    <div class="border p-3 mt-4">
+        <div class="row pb-2">
+            <h2 class="text-primary">Izmijeni studenta</h2>
+        </div>
+        </br>
+        <div class="mb-3">
+            <label asp-for="ime">Ime</label>
+            <input asp-for="ime" class="form-control" />
+            <span asp-validation-for="ime" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="prezime">Prezime</label>
+            <input asp-for="prezime" class="form-control" />
+            <span asp-validation-for="prezime" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="datumRodjenja">Datum Rodjenja</label>
+            <input asp-for="datumRodjenja" class="form-control" />
+            <span asp-validation-for="datumRodjenja" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="pol">Pol</label>
+            <input asp-for="pol" class="form-control" />
+            <span asp-validation-for="pol" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="telefon">Telefon</label>
+            <input asp-for="telefon" class="form-control" />
+            <span asp-validation-for="telefon" class="text-danger"></span>
+        </div>
+        <button type="submit"class="btn btn-primary">Izmijeni</button>
+        <a asp-controller="Student" asp-action="Index" class="btn btn-secondary" style="width:150px"> 
+            Nazad na listu
+        </a>
+    </div>
+</form>
+
+@section Scripts{
+    @{
+        <partial name ="_ValidationScriptsPartial" />
+    }
+}
+

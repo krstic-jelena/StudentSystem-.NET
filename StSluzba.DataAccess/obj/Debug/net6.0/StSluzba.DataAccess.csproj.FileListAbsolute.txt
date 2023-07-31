@@ -1,0 +1,17 @@
+C:\Users\Jelena\source\repos\StSluzba\StSluzba.DataAccess\obj\Debug\net6.0\StSluzba.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Jelena\source\repos\StSluzba\StSluzba.DataAccess\obj\Debug\net6.0\StSluzba.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jelena\source\repos\StSluzba\StSluzba.DataAccess\obj\Debug\net6.0\StSluzba.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Jelena\source\repos\StSluzba\StSluzba.DataAccess\obj\Debug\net6.0\StSluzba.DataAccess.AssemblyInfo.cs
+C:\Users\Jelena\source\repos\StSluzba\StSluzba.DataAccess\obj\Debug\net6.0\StSluzba.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Jelena\source\repos\StSluzba\StSluzba.DataAccess\bin\Debug\net6.0\StSluzba.DataAccess.deps.json
+C:\Users\Jelena\source\repos\StSluzba\StSluzba.DataAccess\bin\Debug\net6.0\StSluzba.DataAccess.runtimeconfig.json
+C:\Users\Jelena\source\repos\StSluzba\StSluzba.DataAccess\bin\Debug\net6.0\StSluzba.DataAccess.dll
+C:\Users\Jelena\source\repos\StSluzba\StSluzba.DataAccess\bin\Debug\net6.0\StSluzba.DataAccess.pdb
+C:\Users\Jelena\source\repos\StSluzba\StSluzba.DataAccess\bin\Debug\net6.0\StSluzba.Models.dll
+C:\Users\Jelena\source\repos\StSluzba\StSluzba.DataAccess\bin\Debug\net6.0\StSluzba.Models.pdb
+C:\Users\Jelena\source\repos\StSluzba\StSluzba.DataAccess\obj\Debug\net6.0\StSluzba.DataAccess.csproj.CopyComplete
+C:\Users\Jelena\source\repos\StSluzba\StSluzba.DataAccess\obj\Debug\net6.0\StSluzba.DataAccess.dll
+C:\Users\Jelena\source\repos\StSluzba\StSluzba.DataAccess\obj\Debug\net6.0\refint\StSluzba.DataAccess.dll
+C:\Users\Jelena\source\repos\StSluzba\StSluzba.DataAccess\obj\Debug\net6.0\StSluzba.DataAccess.pdb
+C:\Users\Jelena\source\repos\StSluzba\StSluzba.DataAccess\obj\Debug\net6.0\StSluzba.DataAccess.genruntimeconfig.cache
+C:\Users\Jelena\source\repos\StSluzba\StSluzba.DataAccess\obj\Debug\net6.0\ref\StSluzba.DataAccess.dll

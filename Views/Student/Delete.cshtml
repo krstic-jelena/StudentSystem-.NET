@@ -1,0 +1,47 @@
+﻿@model Student
+
+<form method="post" asp-action="DeletePOST">
+    <input asp-for="Id" hidden />
+    <div class="border p-3 mt-4">
+        <div class="row pb-2">
+            <h2 class="text-primary">Obrisi studenta</h2>
+        </div>
+        </br>
+        <div class="mb-3">
+            <label asp-for="ime">Ime</label>
+            <input asp-for="ime" disabled class="form-control" />
+            
+        </div>
+        <div class="mb-3">
+            <label asp-for="prezime">Prezime</label>
+            <input asp-for="prezime" disabled class="form-control" />
+          
+        </div>
+        <div class="mb-3">
+            <label asp-for="datumRodjenja">Datum Rodjenja</label>
+            <input asp-for="datumRodjenja" disabled class="form-control" />
+          
+        </div>
+        <div class="mb-3">
+            <label asp-for="pol">Pol</label>
+            <input asp-for="pol" disabled class="form-control" />
+           
+        </div>
+        <div class="mb-3">
+            <label asp-for="telefon">Telefon</label>
+            <input asp-for="telefon" disabled class="form-control" />
+         
+        </div>
+        <button type="submit"class="btn btn-danger">Obrisi</button>
+        <a asp-controller="Student" asp-action="Index" class="btn btn-secondary" style="width:150px"> 
+            Nazad na listu
+        </a>
+    </div>
+</form>
+
+@section Scripts{
+    @{
+        <partial name ="_ValidationScriptsPartial" />
+    }
+}
+
